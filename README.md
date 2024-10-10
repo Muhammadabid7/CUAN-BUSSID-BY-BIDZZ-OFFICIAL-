@@ -1,6 +1,8 @@
-NOTE : non root cari di yt "cara instalasi http canary non root"
+#CUAN BUSSID BY BIDZZ OFFICIAL 🇮🇩#
 
-⏬COMMAND⏬
+_NOTE : non root cari di yt "cara instalasi http canary non root"_
+
+> ⏬COMMAND⏬
 pkg update && pkg upgrade -y
 
 2 pkg install python3 git -y
